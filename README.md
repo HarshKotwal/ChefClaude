@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Powered by Groq AI
 - Icons from Font Awesome
 - Formating with React Markdown package
+- Styling fonts from Google Font
 
 ## Author
 
