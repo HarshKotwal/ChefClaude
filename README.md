@@ -37,6 +37,15 @@ Fully functional! The app is working end-to-end with Groq AI:
 
 Previous Issue (Resolved): Initially used Hugging Face API which had model/provider restrictions. Switched to Groq API for better reliability and performance.
 
+## Live Demo
+
+**Try it live:** https://chef-master-ruddy.vercel.app/
+**Deployment:**
+
+- Frontend: Vercel
+- Backend API: Render
+- AI Model: Groq (Llama 3.3 70B)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
